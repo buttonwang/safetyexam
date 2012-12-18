@@ -1,0 +1,11 @@
+D:\work\SafetyExam\SafetyExam\bin\Debug\SafetyExam.exe
+D:\work\SafetyExam\SafetyExam\bin\Debug\SafetyExam.pdb
+D:\work\SafetyExam\SafetyExam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work\SafetyExam\SafetyExam\obj\x86\Debug\SafetyExam.Properties.Resources.resources
+D:\work\SafetyExam\SafetyExam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\work\SafetyExam\SafetyExam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\work\SafetyExam\SafetyExam\obj\x86\Debug\SafetyExam.exe
+D:\work\SafetyExam\SafetyExam\obj\x86\Debug\SafetyExam.pdb
+D:\work\SafetyExam\SafetyExam\bin\Debug\SafetyExam.exe.config
+D:\work\SafetyExam\SafetyExam\obj\x86\Debug\SafetyExam.FormExam.resources
+D:\work\SafetyExam\SafetyExam\obj\x86\Debug\SafetyExam.TestConditions.resources

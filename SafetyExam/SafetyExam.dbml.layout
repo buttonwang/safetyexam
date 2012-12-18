@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SafetyExam">
+  <DataContextMoniker Name="/SafetyExamDataContext" />
+  <nestedChildShapes>
+    <classShape Id="eb0c7a09-ed3c-4d5c-a396-a9321985a41b" absoluteBounds="1.75, 0.875, 2, 3.2907230631510416">
+      <DataClassMoniker Name="/SafetyExamDataContext/DANXUAN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="84bb4cac-f5c7-4613-b8cc-3039ce3b1af5" absoluteBounds="1.7650000000000001, 1.335, 1.9700000000000002, 2.7307230631510415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

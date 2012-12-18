@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SafetyExam" Class="SafetyExamDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=WANGW-WORK;Initial Catalog=SafetyExam;Persist Security Info=True;User ID=sa" SettingsObjectName="SafetyExam.Properties.Settings" SettingsPropertyName="SafetyExamConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.DANXUAN" Member="DANXUANs">
+    <Type Name="DANXUAN">
+      <Column Name="Content" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="A" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Answer" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="TestLevel" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="ClassDes2" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="ClassDes3" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ClassDes4" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="B" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="C" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="D" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ClassDes1" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
